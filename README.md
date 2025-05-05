@@ -36,10 +36,6 @@
   <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
-<p align="center">
-  <em>If you're seeing this in light mode... you're officially a 🧑‍💻 hobby koder</em> 🌞
-</p>
-
 ---
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=notchus&show_icons=true&theme=github_dark&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=notchus&theme=github-dark&hide_border=true" /> </p>
