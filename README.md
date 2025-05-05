@@ -2,5 +2,6 @@
 
 ### 😬 notchus build:
 <ul>
-  <li><strong>supa-fast App</strong></li>
+  <li>supa responsif app</li>
+  <li>supa-fast app</li>
 </ul>
