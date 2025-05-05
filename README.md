@@ -13,19 +13,25 @@
 </p>
 
 <p align="center">
+  <strong>🛠️ Backend:</strong><br />
   <img src="https://img.shields.io/badge/Built%20with-Rust-orange?style=flat-square&logo=rust&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Web-Actix-blue?style=flat-square&logo=actix-web&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Actix-blue?style=flat-square&logo=actix-web&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Cache-Redis-red?style=flat-square&logo=redis&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  &nbsp;
+</p>
+
+<p align="center">
+  <strong>🎨 Frontend:</strong><br />
   <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Styles-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styles-UnoCSS-333333?style=flat-square&logo=tailwindcss&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
 ---
