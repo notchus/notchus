@@ -14,10 +14,9 @@
 
 ---
 
-### 🚀 Tech Stack
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=notchus&show_icons=true&theme=github_dark&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=notchus&theme=github-dark&hide_border=true" /> </p>
 
+### 🚀 Tech Stack
 ```yaml
 - 🔧 Languages: Rust, TypeScript, Python
 - 🌐 Web: Actix-Web, Next.js, TailwindCSS
