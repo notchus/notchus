@@ -13,6 +13,7 @@
 </p>
 
 <img src="https://img.shields.io/badge/Web-Actix-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Built%20with-Rust-orange?style=flat-square&logo=rust" />
 
 ---
 
