@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm <span style="color:#58a6ff;">notchus</span>
+  this is <span style="color:#58a6ff;">notchus</span>
 </h1>
 
 <p align="center" height="45">
