@@ -14,6 +14,7 @@
 
 <p align="center">
   <strong>🛠️ Backend:</strong><br />
+  <br />
   <img src="https://img.shields.io/badge/Built%20with-Rust-orange?style=flat-square&logo=rust&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Backend-Actix-blue?style=flat-square&logo=actix-web&logoColor=white" />
@@ -25,6 +26,7 @@
 
 <p align="center">
   <strong>🎨 Frontend:</strong><br />
+  <br />
   <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
