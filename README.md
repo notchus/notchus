@@ -1,4 +1,4 @@
-# 😎 notchus play <italic>minecraft</italic> | notchus love perfection 👌
+# 😎 notchus play <i>minecraft</i> | notchus love perfection 👌
 
 ### 😬 notchus bild:
 <ul>
