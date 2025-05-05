@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm <span style="color:#58a6ff;">YourName</span>
+  Hi there 👋, I'm <span style="color:#58a6ff;">notchus</span>
 </h1>
 
 <p align="center">
@@ -15,6 +15,8 @@
 ---
 
 ### 🚀 Tech Stack
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=notchus&show_icons=true&theme=github_dark&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=notchus&theme=github-dark&hide_border=true" /> </p>
 
 ```yaml
 - 🔧 Languages: Rust, TypeScript, Python
