@@ -1,5 +1,5 @@
 <h1 align="center">
-  this is <span style="color:#58a6ff;">notchus</span><br/>![GitHub followers](https://img.shields.io/github/followers/:user)
+  this is <span style="color:#58a6ff;">notchus</span><br/>
 </h1>
 
 <p align="center" height="45">
@@ -8,9 +8,11 @@
 
 <p align="center">
   <a href="https://github.com/notchus">
-    <img src="https://img.shields.io/github/followers/notchus?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/notchus?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
+
+<img src="https://img.shields.io/badge/Web-Actix-blue?style=flat-square" />
 
 ---
 
