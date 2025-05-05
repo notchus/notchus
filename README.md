@@ -2,9 +2,8 @@
   Hi there 👋, I'm <span style="color:#58a6ff;">notchus</span>
 </h1>
 
-<p align="center">
-  <img/>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Uhm%20Developer;Loves%20Supa%20%25%20Fast%20Performance;Building%20Cool%20Stuff&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+<p align="center" height="45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Steve%20is%20not%20bald;notchus%20has%20no%20real%20skills;Building%20Cool%20Stuff&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
