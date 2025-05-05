@@ -4,7 +4,6 @@
 
 <img src="https://img.shields.io/badge/status-experimental-%23f43f5e?style=for-the-badge&labelColor=000&logo=flask&logoColor=white" />
 
-
 <p align="center" height="45">
   <img src="https://readme-typing-svg.demolab.com/?lines=steve%20is%20not%20bald;building%20a%20twittergram%20but%20better;what%20about%20cool%20ideas&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
