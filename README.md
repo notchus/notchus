@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <em>ADHS readme</em> 🌞
+  <em>be chilled by this chattschibidi readme</em> 🌞
 </p>
 
 ---
