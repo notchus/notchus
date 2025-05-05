@@ -1,6 +1,6 @@
-# notchus play Minecraft. notchus love perfection.
+# 😎 notchus play Minecraft | notchus love perfection 👌
 
-### 😬 notchus build:
+### 😬 notchus bild:
 <ul>
   <li>supa responsif app</li>
   <li>supa-fast app</li>
