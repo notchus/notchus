@@ -1,5 +1,5 @@
 <h1 align="center">
-  this is <span style="color:#58a6ff;">notchus</span><br/>https://img.shields.io/github/followers/:user
+  this is <span style="color:#58a6ff;">notchus</span><br/>![GitHub followers](https://img.shields.io/github/followers/:user)
 </h1>
 
 <p align="center" height="45">
