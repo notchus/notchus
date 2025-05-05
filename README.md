@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" height="45">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Steve%20is%20not%20bald;notchus%20has%20no%20real%20skills;Building%20Cool%20Stuff&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=steve%20is%20not%20bald;building%20a%20twittergram%20but%20better;daydreaming%20about%20cool%20ideas&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
