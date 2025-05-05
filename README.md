@@ -12,8 +12,6 @@
   </a>
 </p>
 
-<line>
-
 <p align="center">
   <strong>🛠️ Backend:</strong>
   <br /><br />
