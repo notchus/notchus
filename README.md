@@ -1,6 +1,6 @@
-# I play Minecraft. I love perfection.
+# notchus play Minecraft. notchus love perfection.
 
-### I want to build:
+### notchus build:
 <ul>
-  <li><strong>A supa-fast Web App (Twitter, Instagram like) that will be deployed on Flutter when it's done.</strong></li>
+  <li><strong>supa-fast App</strong></li>
 </ul>
