@@ -42,8 +42,6 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=notchus&show_icons=true&theme=github_dark&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=notchus&theme=github-dark&hide_border=true" /> </p>
-
 ### 🚀 Tech Stack (maybe not quite)
 ```yaml
 - 🔧 Languages: Rust (yeah sure), TypeScript, Python (ofcourse), Java, JavaScript, AHHHHHHHHHHHH
